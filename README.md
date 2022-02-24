@@ -5,8 +5,10 @@ A tiny npm package to perform basic string methods
 
 ```javascript
 
+// import the package 
 const str = require("strinify")
 
-const ins = new str
+// create a new instance of the function
+const ins = new str()
 
 ```
