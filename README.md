@@ -1,4 +1,4 @@
-# String-js
+# String-Dooku
 A tiny npm package to perform basic string methods
 
 <h2>It's so easy to get started with this package. Follow the steps below</h2>
@@ -6,7 +6,7 @@ A tiny npm package to perform basic string methods
 ```javascript
 
 // import the package 
-const str = require("string-js")
+const str = require("string-dooku")
 
 // create a new instance of the function
 const ins = new str()
@@ -30,7 +30,7 @@ console.log(app.duplicationCount("Hello World")); // output -> { H: 1, e: 1, l: 
 ```javascript
 
 // import the package 
-const str = require("string-js")
+const str = require("string-dooku")
 
 // create a new instance of the function
 const ins = new str()
@@ -92,8 +92,8 @@ console.log(ins.endsWith("Hello World" , "World")); // output -> true
 ### Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/string-js)
+2. Create your Feature Branch (git checkout -b feature/string-dooku)
 3. Commit your changes (git commit -am 'First commit')
-4. Push to the branch (git push origin feature/string-js)
+4. Push to the branch (git push origin feature/string-dooku)
 5. Create a new Pull Request
 
