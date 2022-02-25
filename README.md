@@ -20,4 +20,7 @@ console.log(ins.reverse("Hello World")) // output -> dlroW olleH
 // check substring -- we need to pass two parameters so this function will check the first argument of the function same as the second one then it will return a boolean value
 console.log(ins.checkSubstring("app" , "app")) // output -> true
 
+// duplication count
+console.log(app.duplicationCount("Hello World")); // output -> { H: 1, e: 1, l: 4, o: 2, ' ': 1, W: 1, r: 1, d: 1 }
+
 ```
