@@ -87,4 +87,13 @@ console.log(ins.characterAt("Hello World" , 2); // output -> l
 console.log(ins.endsWith("Hello World" , "World")); // output -> true
 
 ```
+## Contributing
+
+### Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/string.js)
+3. Commit your changes (git commit -am 'First commit')
+4. Push to the branch (git push origin feature/string.js)
+5. Create a new Pull Request
 
