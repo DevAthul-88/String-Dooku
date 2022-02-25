@@ -14,4 +14,6 @@ const ins = new str()
 // change string case to upper
 console.log(ins.toUpperCase("hello world")) // output: -> HELLO WORLD
 
+// reverse a string
+console.log(ins.reverse("Hello World")) // output -> dlroW olleH
 ```
