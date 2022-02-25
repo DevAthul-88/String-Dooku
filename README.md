@@ -1,7 +1,7 @@
 # String.js
 A tiny npm package to perform basic string methods
 
-<h4>It's so easy to get started with this package. Follow the steps below</h4>
+<h2>It's so easy to get started with this package. Follow the steps below</h2>
 
 ```javascript
 
