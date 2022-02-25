@@ -16,4 +16,8 @@ console.log(ins.toUpperCase("hello world")) // output: -> HELLO WORLD
 
 // reverse a string
 console.log(ins.reverse("Hello World")) // output -> dlroW olleH
+
+// check substring -- we need to pass two parameters so this function will check the first argument of the function same as the second one then it will return a boolean value
+console.log(ins.checkSubstring("app" , "app")) // output -> true
+
 ```
